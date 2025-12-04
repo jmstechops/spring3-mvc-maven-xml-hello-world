@@ -66,7 +66,7 @@
  
   <hr>
   <footer>
-	<p>&copy; Mkyong.com 2015</p>
+	<p>&copy; jmstechops.com 2015</p>
   </footer>
 </div>
  
